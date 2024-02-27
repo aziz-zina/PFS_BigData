@@ -11,11 +11,11 @@ The project began with the acquisition of an Excel file containing survey data. 
 To ensure the accuracy and reliability of the analysis, a comprehensive data cleaning process was undertaken. This step involved handling missing values, addressing outliers, and standardizing data formats. The cleaned dataset formed the basis for the subsequent stages of the project.
 
 3. Data Analysis and Visualization
-3.1 Power BI Visualizations
-Power BI was employed to create interactive and insightful visualizations based on the cleaned dataset. Various charts, graphs, and dashboards were generated to represent key trends, patterns, and relationships within the data. Power BI's capabilities were harnessed to provide a user-friendly and dynamic interface for exploring the survey insights.
+  - 3.1 Power BI Visualizations
+  Power BI was employed to create interactive and insightful visualizations based on the cleaned dataset. Various charts, graphs, and dashboards were generated to represent key trends, patterns, and relationships within the data. Power BI's capabilities were harnessed to provide a user-friendly and dynamic interface for exploring the survey insights.
 
-3.2 Python Visualizations
-In addition to Power BI, Python was utilized to perform further data analysis and generate visualizations. Python libraries such as Pandas, Matplotlib, and Seaborn were employed to create additional plots and charts, enhancing the depth of analysis and providing a diverse set of visual representations.
+  - 3.2 Python Visualizations
+  In addition to Power BI, Python was utilized to perform further data analysis and generate visualizations. Python libraries such as Pandas, Matplotlib, and Seaborn were employed to create additional plots and charts, enhancing the depth of analysis and providing a diverse set of visual representations.
 
 4. Results and Findings
 The project culminated in the identification of significant findings and insights derived from the analysis of the survey data. These findings were presented through a combination of Power BI dashboards and Python-generated visualizations, providing a comprehensive understanding of the surveyed population.
