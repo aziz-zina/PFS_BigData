@@ -3,6 +3,9 @@
 ## Overview
 This README file provides an overview of the end-of-semester project in Big Data conducted by <a href="https://github.com/aziz-zina">Aziz Zina</a>. The project focuses on leveraging big data techniques to analyze and visualize insights from a real survey dataset related to individuals working in the domain of computer science and data science.
 
+![image](https://github.com/user-attachments/assets/429c4626-c3f4-4b9f-9a1f-e858dff7ea69)
+
+
 ## Project Steps
 1. Data Acquisition
 The project began with the acquisition of an Excel file containing survey data. This survey encompassed various questions aimed at gathering information about professionals in the computer science and data science fields. The dataset served as the foundation for subsequent analysis and visualization.
